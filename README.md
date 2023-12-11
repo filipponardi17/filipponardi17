@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Filippo Nardi, I'm a 22 years old italian student
-- 👀 I’m interested in Data science application, in particular in economics scenarios 
-- 🌱 I’m currently finishing my bachelor in International Studies in Trento and will be studying Data Science as a Master Degree
+- 👋 Hi, I’m Filippo Nardi, I'm a 24 years old italian student
+- 👀 Interested in Data science application 
+- 🌱 I’m currently pursuing a Master Degree in Data Science at University of Trento
 - 📫 You can reach me filippo.nardi17@gmail.com
 
 
